@@ -12,7 +12,7 @@ namespace PjtInsertar_Eliminar_EditarYBuscar
 
     public class Articulos
     {
-        int idArticulo;
+        int idArticulo; 
         string Nombre;
         string Precio;
 
